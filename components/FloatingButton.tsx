@@ -17,7 +17,7 @@ export default function FloatingButton() {
       </div>
 
       <a
-        href="https://wa.me/9779800000000" // Replace with real number
+        href="https://wa.me/9779702032444" // Replace with real number
         target="_blank"
         rel="noopener noreferrer"
         className="w-14 h-14 bg-green-500 rounded-full flex items-center justify-center text-white shadow-2xl hover:bg-green-400 hover:scale-110 transition-all cursor-pointer relative"
